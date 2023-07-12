@@ -1,2 +1,2 @@
-# banmaAnnotatior
-A simple ORM framework 
+# banma ORM framework 
+A simple ORM framework for DB 
